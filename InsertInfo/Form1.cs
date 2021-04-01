@@ -176,11 +176,12 @@ namespace InsertInfo
             }
             else
             {
+                
                 for (int i = 0; i < listView1.Items.Count; i++)
                 {
                     if (!string.IsNullOrEmpty(listView1.Items[i].SubItems[1].Text))
                     {
-                        if (char.ToUpperInvariant(target) == char.ToUpperInvariant(listView1.Items[i].SubItems[1].Text[0]))
+                        if (char.ToUpperInvariant(target) == char.ToUpperInvariant(listView1.Items[i].SubItems[0].Text[0]))
                         {
                             timer1.Tick += new System.EventHandler(OnTimerEvent);
                             listView1.Items[i].BackColor = Color.Lime;

@@ -42,6 +42,7 @@
             this.songFirstLetter = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.label4 = new System.Windows.Forms.Label();
+            this.btnReload = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.textBox6 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
@@ -50,7 +51,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.insert = new System.Windows.Forms.Button();
-            this.btnReload = new System.Windows.Forms.Button();
             this.btnResetDB = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -135,7 +135,7 @@
             this.songFirstLetter.Name = "songFirstLetter";
             this.songFirstLetter.Size = new System.Drawing.Size(102, 24);
             this.songFirstLetter.TabIndex = 2;
-            this.songFirstLetter.Text = "songFirstLetter";
+            this.songFirstLetter.Text = "songFirstChar";
             this.songFirstLetter.UseVisualStyleBackColor = true;
             this.songFirstLetter.Click += new System.EventHandler(this.songFirstLetter_Click);
             // 
@@ -166,6 +166,16 @@
             this.label4.Size = new System.Drawing.Size(41, 12);
             this.label4.TabIndex = 2;
             this.label4.Text = "chords";
+            // 
+            // btnReload
+            // 
+            this.btnReload.Location = new System.Drawing.Point(666, 25);
+            this.btnReload.Name = "btnReload";
+            this.btnReload.Size = new System.Drawing.Size(102, 23);
+            this.btnReload.TabIndex = 5;
+            this.btnReload.Text = "btnReload";
+            this.btnReload.UseVisualStyleBackColor = true;
+            this.btnReload.Click += new System.EventHandler(this.btnReload_Click);
             // 
             // label3
             // 
@@ -235,16 +245,6 @@
             this.insert.Text = "insert";
             this.insert.UseVisualStyleBackColor = true;
             this.insert.Click += new System.EventHandler(this.insert_Click);
-            // 
-            // btnReload
-            // 
-            this.btnReload.Location = new System.Drawing.Point(666, 25);
-            this.btnReload.Name = "btnReload";
-            this.btnReload.Size = new System.Drawing.Size(102, 23);
-            this.btnReload.TabIndex = 5;
-            this.btnReload.Text = "btnReload";
-            this.btnReload.UseVisualStyleBackColor = true;
-            this.btnReload.Click += new System.EventHandler(this.btnReload_Click);
             // 
             // btnResetDB
             // 
