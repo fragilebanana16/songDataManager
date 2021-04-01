@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Csharp\database\InsertInfo\InsertInfo\bin\Debug\InsertInfo.exe.config
+C:\Users\Administrator\Desktop\Csharp\database\InsertInfo\InsertInfo\obj\Debug\InsertInfo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Csharp\database\InsertInfo\InsertInfo\obj\Debug\InsertInfo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Csharp\database\InsertInfo\InsertInfo\obj\Debug\InsertInfo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Csharp\database\InsertInfo\InsertInfo\bin\Debug\InsertInfo.exe
+C:\Users\Administrator\Desktop\Csharp\database\InsertInfo\InsertInfo\bin\Debug\InsertInfo.pdb
+C:\Users\Administrator\Desktop\Csharp\database\InsertInfo\InsertInfo\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\Csharp\database\InsertInfo\InsertInfo\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Administrator\Desktop\Csharp\database\InsertInfo\InsertInfo\obj\Debug\InsertInfo.exe
+C:\Users\Administrator\Desktop\Csharp\database\InsertInfo\InsertInfo\obj\Debug\InsertInfo.pdb
+C:\Users\Administrator\Desktop\Csharp\database\InsertInfo\InsertInfo\obj\Debug\InsertInfo.DataMangementForm.resources
